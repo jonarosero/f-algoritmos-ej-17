@@ -1,0 +1,61 @@
+ 1  echo "# f-algortimos-ej-17" >> README.md
+    2  git init
+    3  git add README.md
+    4  git commit -m "first commit"
+    5  git commit -m "Primer commit"
+    6  git remote add origin https://github.com/jonatosero/f-algoritmos-ej-17.git
+    7  git push -u origin master
+    8  git log
+    9  git status
+   10  git add README.md
+   11  echo "# f-algoritmos-ej-17" >>README.md
+   12  git init
+   13  git add README.md
+   14  git config --global user"
+   15  git commit -m "first commit"
+   16  echo "# f-algoritmos-ej-17" >> README.md
+   17  git init
+   18  git add README.md
+   19  git config --global user.mail "jars9605@hotmail.com"
+   20  git config --global user.name "jonarosero"
+   21  git commit -m "first commit"
+   22  git config --global user.mail "jars9605@hotmail.com"
+   23  git config --global user.name "jonarosero"
+   24  git commit -m "first commit"
+   25   git config --global user.email "jars9605@hotmail.com"
+   26   git config --global user.name "jonarosero"
+   27  git commit -m "first commit"
+   28  git remote add origin https://github.com/jonarosero/f-algoritmos-ej-17.git
+   29  git push -u origin master
+   30  git remote -v
+   31  git push -u origin master
+   32  git statud
+   33  git status
+   34  git log
+   35  git remote -v
+   36  git push -u origin master
+   37  git push -u origin master
+   38  git remote add origin https://github.com/jonarosero/f-algoritmos-ej-17.git
+   39  git remove
+   40  git remote set-url origin git:
+   41  git remote set-url origin git:https://github.com/jonatosero/f-algoritmos-ej-17.git
+   42  git remote add origin https://github.com/jonarosero/f-algoritmos-ej-17.git
+   43  git push -u origin master
+   44  echo "# f-algoritmos-ej-17" >> README.md
+   45  git init
+   46  git add README.md
+   47  git commit -m "first commit"
+   48  git remote add origin https://github.com/jonarosero/f-algoritmos-ej-17.git
+   49  git push -u origin master
+   50  git status
+   51  git add principal.txt
+   52  git commit -m -a "ciclos"
+   53  git commit -m -a"mensaje"
+   54  git push
+   55  git status
+   56  git status
+   57  git status
+   58  git commit -a -m"mensaje mod"
+   59  git push
+   60  git status
+   61  history
