@@ -1,0 +1,5 @@
+LISTADO DE ESTUDIANTES: 
+NOMBRE	|APELLIDO	|NOTA 1	|NOTA 2	|PROMEDIO
+Jose	|Alcivar	|15,00(Matematicas)	|13,00(Ingles)	|	|14,00
+Luis	|Andrade	|17,00(Matematicas)	|15,00(Ingles)	|	|16,00
+Lorena	|Carpio	|20,00(Matematicas)	|18,00(Ingles)	|	|19,00
